@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Player playerOne = new Player("Alice");
+            Player playerOne = new Player("Alice"); 
             Player playerTwo = new Player("AI");
             for (int i = 1; i < 4; i++)
             {
